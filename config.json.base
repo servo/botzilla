@@ -1,0 +1,10 @@
+{
+    "homeserver": "https://matrix.org",
+    "accessToken": "{{ACCESSTOKEN}}",
+    "standupsSecret": "{{STANDUPSSECRET}}",
+    "handlers": [
+        "expand-bug",
+        "standups"
+    ],
+    "owner": "@jdm:matrix.example.com"
+}

@@ -3,6 +3,7 @@ data/
 
 yarn.lock
 yarn-error.log
+config.json
 
 node_modules/
 .cache/

@@ -43,7 +43,8 @@ function loadConfig(fileName) {
     extra: {
       handlerNames,
       helpMessages,
-      owner: config.owner
+      owner: config.owner,
+      standups: config.standupsSecret,
     }
   };
 }
